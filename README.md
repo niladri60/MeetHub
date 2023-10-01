@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# MeetHub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build for BharatIntern Internship Project.
 
-## Available Scripts
+## Key Features
 
-In the project directory, you can run:
+1. **User Registration and Authentication**: MeetHub allows users to create accounts, log in securely, and manage their profiles. It ensures user privacy and data protection.
 
-### `npm start`
+2. **Meeting Scheduling**: Users can schedule and organize meetings with date, time, and agenda details. Integration with calendar systems like Google Calendar ensures easy scheduling.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. **Join Meetings**: Participants can easily join scheduled meetings using a unique room ID or URL. They can also join meetings as guests without requiring an account.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. **Video and Audio Conferencing**: MeetHub offers high-quality video and audio conferencing capabilities, supporting real-time communication with participants from around the world.
 
-### `npm test`
+5. **Screen Sharing**: Presenters can share their screens, making it easy to collaborate on documents, presentations, and visuals during meetings.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. **Chat and Messaging**: Participants can use chat features for text-based communication, including private and group chats, allowing for real-time discussions.
 
-### `npm run build`
+7. **File Sharing**: Users can share files and documents during meetings, making it convenient for presentations and collaborations.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+8. **Recording**: Meetings can be recorded for later review or for participants who couldn't attend in real-time.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+9. **Interactive Whiteboard**: Collaborative whiteboard tools enable brainstorming, drawing, and annotation during meetings.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+10. **Participant Management**: Hosts can manage participants, including muting/unmuting, removing participants, and assigning roles.
 
-### `npm run eject`
+11. **Customizable Meeting Settings**: Meeting hosts can customize settings like meeting privacy, password protection, and waiting rooms for added security.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+12. **Analytics and Reporting**: Generate reports on meeting attendance, duration, and participant engagement.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+13. **Responsive Design**: MeetHub is designed to be accessible on various devices, including desktops, tablets, and mobile phones, ensuring a seamless user experience.
